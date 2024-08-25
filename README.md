@@ -18,7 +18,7 @@ The **Shutdown Timer** is a simple Python application that allows users to sched
 
 ## Screenshots
 
-![Shutdown Timer Screenshot]([path_to_screenshot.png](https://github.com/0kogu/Shutdown-Timer/blob/main/screenshot.png))
+![Shutdown Timer Screenshot]((https://github.com/0kogu/Shutdown-Timer/blob/main/screenshot.png))
 
 ## Requirements
 
