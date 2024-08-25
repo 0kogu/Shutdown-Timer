@@ -71,4 +71,4 @@ If you have any questions or suggestions regarding this project, feel free to co
 
 ---
 
-Thank you for checking out this project! If you found it useful, please consider giving it a star on GitHub.
+Thank you for checking out this project! If you found it useful, please consider giving it a star.
